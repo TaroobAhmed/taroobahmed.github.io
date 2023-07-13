@@ -517,8 +517,8 @@ h6 {
   float: left;
 }
 .tokyo_tm_about .description .right > ul > li span {
-  min-width: 300px;
-  display: inline-block;
+  /* min-width: 300px; */
+  display: block;
   font-weight: 700;
   color: #000;
   font-style: italic;
