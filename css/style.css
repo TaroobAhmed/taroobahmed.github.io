@@ -359,6 +359,18 @@ h6 {
   transform: translate3d(0, 0, 0);
   z-index: 5;
 }
+.tokyo_tm_section.active::-webkit-scrollbar {
+  width: 11px;
+}
+.tokyo_tm_section.active::-webkit-scrollbar-thumb{
+  border-radius: 6px;
+  border: 2px solid hwb(0deg 25% 73%);
+  background: white;
+}
+.tokyo_tm_section.active::-webkit-scrollbar-track{
+ background: hwb(0deg 25% 73%);
+}
+
 .tokyo_tm_home {
   width: 100%;
   min-height: 100vh;
