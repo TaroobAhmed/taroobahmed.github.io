@@ -365,7 +365,7 @@ h6 {
 .tokyo_tm_section.active::-webkit-scrollbar-thumb{
   border-radius: 6px;
   border: 2px solid hwb(0deg 25% 73%);
-  background: white;
+  background: #979191;
 }
 .tokyo_tm_section.active::-webkit-scrollbar-track{
  background: hwb(0deg 25% 73%);
